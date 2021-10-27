@@ -10,3 +10,4 @@ angkaUnik = set(angkaAcak)
 
 print(angkaUnik)
 print(list(angkaUnik))
+
