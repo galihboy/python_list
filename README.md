@@ -2,6 +2,6 @@
 ###### Developed by [Galih Hermawan](https://galih.eu).
 ---
 
-Tutorial tersedia dalam [Blog Medium](https://masgalih.medium.com/tips-menggunakan-array-list-dalam-python-6b5add9f2dba).
+Tutorial tersedia dalam [Blog](https://blog.galih.eu/tips-menggunakan-array-list-dalam-python).
 
 Kompilasi tutorial tips n tricks terkait tipe data **list**.
